@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(240, 210, 171);
+}
+.que{
+    padding: 5px;
+    color: black;
+}
+.ans{
+    padding: 5px;
+    color: blue;
+}
